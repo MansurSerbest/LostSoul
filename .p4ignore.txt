@@ -1,0 +1,11 @@
+#ignore the ignore file itself
+.p4ignore.txt
+
+#ignore unnecessary VS files
+*.sln
+
+#ignore directories
+Binaries/
+.vs/
+Saved/
+Intermediate/
